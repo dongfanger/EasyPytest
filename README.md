@@ -1,2 +1,2 @@
 # EasyPytest
-帮你高效管理pytest测试用例。
+基于Pytest的接口测试平台。
